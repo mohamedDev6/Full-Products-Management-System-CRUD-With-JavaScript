@@ -52,3 +52,7 @@ While building this project, I improved my understanding of:
 - Add dark mode
 - Migrate data storage to a real database
 - Build a backend API version
+
+## Live:
+
+- Live Demo: https://mohameddev6.github.io/Full-Products-Management-System-CRUD-With-JavaScript/
